@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974"
-      width="30"/> (Hi)😄, I'm João Vitor Ceratti <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+      width="30"/> Hi 😄, I'm João Vitor Ceratti <img src="https://giphy.com/gifs/dan-bahia-uzpjgAYcspoLqcXUlT" width="50"></h2>
 
 <!--
 **JoaoCeratti/JoaoCeratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
