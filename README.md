@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="40"/> Hi 😄, I'm João Vitor Ceratti  <img src="https://emojis.slackmojis.com/emojis/images/1643509494/43812/sonic.gif?1643509494" width="40"/></h2>
 <img align='right' src="https://media0.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="230">
 
-[![Linkedin: João](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ceratti-ba20392b0/))
+![Linkedin: João](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ceratti-ba20392b0/)
 ![GitHub followers](https://img.shields.io/github/followers/JoaoCeratti?label=Follow&style=social)
 
 
