@@ -4,7 +4,7 @@ My name is João Ceratti,
 
 I'm a software developer, currently working with Ruby on Rails and PostgreSQL.
 
-I'm a Systems Analysis and Development student, currently in my penultimate year at university. I also have experience with other languages and frameworks such as Python, RobotFramework, C, Lua, and other languages used in my studies.
+I'm a Systems Analysis and Development student, currently in my penultimate year at university. I also have experience with other languages and frameworks such as Python, RobotFramework, C and other languages used in my studies.
 
 I have knowledge in Cyber Security, mainly as a hobby, working with OS like Kali Linux and tools such as THC Hydra, Metasploit Framework, and Nmap to perform pentests on services, for instance, on platforms like TryHackMe.
 
